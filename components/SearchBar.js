@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
   input: {
     flex: 1,
     height: 40,
+    width: 100,
     fontSize: 16,
     color: '#333',
   },
